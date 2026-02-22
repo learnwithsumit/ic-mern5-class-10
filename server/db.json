@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "b169",
+      "name": "Sumit",
+      "email": "sumit@learnwithsumit.com"
+    },
+    {
+      "id": "52a0",
+      "name": "Akash",
+      "email": "akash@learnwithsumit.com"
+    },
+    {
+      "id": "adf2",
+      "name": "Saad",
+      "email": "saad@learnwithsumit.com"
+    },
+    {
+      "id": "4c45",
+      "name": "Rafe",
+      "email": "rafe@learnwithsumit.com"
+    },
+    {
+      "id": "3744",
+      "name": "ABCD",
+      "email": "abcd@learnwithsumit.com"
+    },
+    {
+      "id": "e111",
+      "name": "Learn with Sumit",
+      "email": "support@learnwithsumit.com"
+    }
+  ]
+}
